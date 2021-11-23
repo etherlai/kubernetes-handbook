@@ -24,13 +24,6 @@
   * [云原生编程语言 Pulumi](cloud-native/cloud-native-programming-language-pulumi.md)
 * [云原生的未来](cloud-native/the-future-of-cloud-native.md)
 
-## 快速入门
-
-* [云原生新手入门指南](cloud-native/quick-start.md)
-* [Play with Kubernetes](cloud-native/play-with-kubernetes.md)
-* [快速部署一个云原生本地实验环境](cloud-native/cloud-native-local-quick-start.md)
-* [使用 Rancher 在阿里云上部署 Kubenretes 集群](cloud-native/setup-kubernetes-with-rancher-and-aliyun.md)
-
 ## 概念与原理
 
 * [Kubernetes 架构](concepts/index.md)
@@ -202,4 +195,7 @@
     * [Envoy 的架构与基本术语](usecases/envoy-terminology.md)
     * [Envoy 作为前端代理](usecases/envoy-front-proxy.md)
     * [Envoy mesh 教程](usecases/envoy-mesh-in-kubernetes-tutorial.md)
+
+## Rancher
+* [使用 Rancher 在阿里云上部署 Kubenretes 集群](cloud-native/setup-kubernetes-with-rancher-and-aliyun.md)
 
